@@ -3,7 +3,7 @@
 ## Getting Started
 
 1. Clone the project
-2. Init the submodules with `git submodules update --init --recursive`
+2. Init the submodules with `git submodule update --init --recursive`
 3. Open the project with Unity
 
 ## Project Structure
